@@ -19,3 +19,10 @@ video{
 	display: block;
     margin: 0 auto;
 }
+h2{
+	font-family: verdana;
+	font-weight: 300;
+	font-size: 42px;
+	color: white;
+	text-align: center;
+}
